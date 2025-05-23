@@ -1,0 +1,9 @@
+body { margin: 0; font-family: Arial; }
+.sidebar {
+    width: 220px; background: #222; color: #fff; height: 100vh; position: fixed;
+    padding: 20px 0; top: 0; left: 0;
+}
+.sidebar ul { list-style: none; padding: 0; }
+.sidebar li { margin: 20px 0; }
+.sidebar a { color: #fff; text-decoration: none; }
+.main-content { margin-left: 240px; padding: 20px; }
